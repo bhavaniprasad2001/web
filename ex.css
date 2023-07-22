@@ -7,9 +7,9 @@
 body{
     background: rgba(47, 42, 42, 0.993);
 }
-@media only screen and (max-width: 400px){
+@media only screen and (max-width: 1000px){
     .headp{
-        width:90%
+        width:80%
         
     }
 
